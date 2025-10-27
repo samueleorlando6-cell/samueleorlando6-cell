@@ -25,8 +25,8 @@
 
 ## 🔗 About Me
 
-Sono uno **studente curioso e motivato**, appassionato d'informatica e programmazione che riescanano a interagire con il mondo.  
-Che siano **codice, sistemare parti hardword**, amo la sfida e la creatività necessarie per trasformare le idee in realtà.
+Sono uno **studente curioso e motivato**, appassionato d'informatica e programmazione.  
+Che siano **codice, sistemare parti hardware**, amo la sfida e la creatività necessarie per trasformare le idee in realtà.
 
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="coding gif">
